@@ -74,14 +74,14 @@ public class Encuesta extends AppCompatActivity {
                     }
                     String q1 = et1.getText().toString();
                     datoRecibir = getIntent().getExtras();
-                    String name2 = datoRecibir.getString("name");
+                    String name = datoRecibir.getString("name");
                     String starting_amount = datoRecibir.getString("starting_amount");
                     Intent intentEnvio = new Intent(Encuesta.this, Resumen.class);
                     intentEnvio.putExtra("q1", q1);
                     intentEnvio.putExtra("starting_amount", starting_amount);
                     intentEnvio.putExtra("q2", message1);
                     intentEnvio.putExtra("q3", message2);
-                    intentEnvio.putExtra("name", name2);
+                    intentEnvio.putExtra("name", name);
                     startActivity(intentEnvio);
                     Toast.makeText(getApplicationContext(), "Envío de datos exitoso", Toast.LENGTH_SHORT).show();
                     startActivity(intentEnvio1);
