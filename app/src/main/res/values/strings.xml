@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JuanCantunia-examen</string>
+    <string name="Titulo">EXAMEN PARCIAL I</string>
+    <string name="Usuario">USUARIO</string>
+    <string name="User">INGRESE USUARIO</string>
+    <string name="Pass"> CONTRASEÑA</string>
+    <string name="Password">INGRESE CONTRAESÑA</string>
+    <string name="Boton"> VALIDAR DATOS</string>
+    <string name="Nombre"> NOMBRE</string>
+    <string name="Usuario1"> Usuario Conectado</string>
+    <string name="Nombres"> INGRESE SU NOMBRE</string>
+    <string name="Monto"> MONTO INICIAL</string>
+    <string name="BtnCalcular">CALCULAR</string>
+    <string name="Cuota">VALOR DE LA CUOTA</string>
+    <string name="Valor">COSTO DE LA CUOTA</string>
+    <string name="Guardar">GUARDAR</string>
+    <string name="Titulo2">BIENVENIDO A UNA ENCUESTA</string>
+    <string name="Titulo3">Por favor responda a las siguentes preguntas</string>
+    <string name="Pregunta1">¿Por qué eligió este centro?</string>
+    <string name="Pregunta2">¿Qué deportes prectica?</string>
+    <string name="Pregunta3">¿Está interesado en aprender otro idioma a parte de inglés?</string>
+    <string name="Caja1">FUTBOLL</string>
+    <string name="Caja2">NATACIÓN</string>
+    <string name="Caja3">ATLETISMO</string>
+    <string name="Radio1">SI</string>
+    <string name="Radio2">NO</string>
+    <string name="Enviar">ENVIAR RESPUESTAS</string>
+    <string name="Nombre2">NOMBRE</string>
+    <string name="TotalaPagar">TOTAL A PAGAR</string>
+    <string name="Preguntas">PREGUNTA 1</string>
+    <string name="Preguntsa1">PREGUNTA 2</string>
+    <string name="Preguntas2">PREGUNTA 3</string>
+    <string name="UserConectado">estudiante2020</string>
+    <string name="BtnEnviar">ENVIAR DATOS</string>
+    <string name="Respuestas"> DETALLES DE PREGUNTAS</string>
+
+
+</resources>
